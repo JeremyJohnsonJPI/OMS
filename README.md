@@ -1,2 +1,2 @@
 # OMS
-Opportunity Management System
+Opportunity Management System for JPI Contracts Team.
